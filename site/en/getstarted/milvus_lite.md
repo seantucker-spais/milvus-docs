@@ -22,7 +22,7 @@ Milvus Lite shares the same API with Milvus Standalone and Distributed, and cove
 
 ## Prerequisites
 
-Milvus Lite currently supports the following environmnets:
+Milvus Lite currently supports the following environments:
 - Ubuntu >= 20.04 (x86_64 and arm64)
 - MacOS >= 11.0 (Apple Silicon M1/M2 and x86_64)
 
